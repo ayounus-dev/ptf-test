@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "id": 5369,
+      "name": "Ethyca",
+      "size": "1-100",
+      "status": "Approved",
+      "slug": "ethyca",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 488161,
+        "url": "https://assets.powertofly.com/thumbnail/435bf836008141a09e420bbd8697b9e6.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 12,
+      "type": "companies"
+    },
+    {
+      "id": 1299,
+      "name": "Dell Technologies",
+      "size": "10001-300000",
+      "status": "Approved",
+      "slug": "dell-technologies",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 384844,
+        "url": "https://assets.powertofly.com/thumbnail/a9073abc294a4dcaa4de10b6792c2617.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 868,
+      "type": "companies"
+    },
+    {
+      "id": 3713,
+      "name": "Good Money",
+      "size": "1-100",
+      "status": "Approved",
+      "slug": "good-money",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 323836,
+        "url": "https://assets.powertofly.com/thumbnail/93b6599f088e473783cd30cc7567abcf.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 2,
+      "type": "companies"
+    },
+    {
+      "id": 272,
+      "name": "Conde Nast",
+      "size": "501-2000",
+      "status": "Approved",
+      "slug": "conde-nast",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 378027,
+        "url": "https://assets.powertofly.com/thumbnail/e07ad070759840c29edf6d092f4cab45.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 10,
+      "type": "companies"
+    },
+    {
+      "id": 2299,
+      "name": "GameChanger",
+      "size": "101-500",
+      "status": "Approved",
+      "slug": "gamechanger-media",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 491568,
+        "url": "https://assets.powertofly.com/thumbnail/9402a34eb8a64908b50f1dfdff58d089.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 9,
+      "type": "companies"
+    },
+    {
+      "id": 3274,
+      "name": "Mindbody",
+      "size": "501-2000",
+      "status": "Approved",
+      "slug": "mindbody",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 449133,
+        "url": "https://assets.powertofly.com/thumbnail/92409ebc9424452f80e25998dcf4018b.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 52,
+      "type": "companies"
+    },
+    {
+      "id": 5491,
+      "name": "Thirty Madison",
+      "size": "1-100",
+      "status": "Approved",
+      "slug": "thirty-madison",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 503761,
+        "url": "https://assets.powertofly.com/thumbnail/cb7d6f831a54481db3be13de62516824.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 4,
+      "type": "companies"
+    },
+    {
+      "id": 3766,
+      "name": "2U, Inc.",
+      "size": "2001-5000",
+      "status": "Approved",
+      "slug": "2u-inc",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 332897,
+        "url": "https://assets.powertofly.com/thumbnail/3aa786852ee34cd998f40bb59fcd25a9.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 75,
+      "type": "companies"
+    },
+    {
+      "id": 3993,
+      "name": "VideoAmp",
+      "size": "101-500",
+      "status": "Approved",
+      "slug": "videoamp",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 387895,
+        "url": "https://assets.powertofly.com/thumbnail/75ebd1bf1c6847fc99bf9caf0d26ffb7.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 8,
+      "type": "companies"
+    },
+    {
+      "id": 4070,
+      "name": "National Security Agency (NSA)",
+      "size": "10001-300000",
+      "status": "Approved",
+      "slug": "national-security-agency-nsa",
+      "can_contact_talents": true,
+      "thumbnail": null,
+      "active_published_jobs_count": 33,
+      "type": "companies"
+    },
+    {
+      "id": 4088,
+      "name": "Clyde",
+      "size": "1-100",
+      "status": "Approved",
+      "slug": "clyde",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 423494,
+        "url": "https://assets.powertofly.com/thumbnail/fc3bb31237b946f398daaf19f786559a.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 8,
+      "type": "companies"
+    },
+    {
+      "id": 3243,
+      "name": "Audible",
+      "size": "501-2000",
+      "status": "Approved",
+      "slug": "audible-inc",
+      "can_contact_talents": true,
+      "thumbnail": {
+        "id": 261270,
+        "url": "https://assets.powertofly.com/thumbnail/400e4061216a4660bfaf37e7cc833a81.jpeg",
+        "type": "photos"
+      },
+      "active_published_jobs_count": 29,
+      "type": "companies"
+    }
+  ],
+  "meta": {
+    "per_page": 15,
+    "total": 12,
+    "pages": 1,
+    "page": 1,
+    "next_page": null,
+    "prev_page": null
+  }
+}

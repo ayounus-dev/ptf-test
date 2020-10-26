@@ -1,0 +1,127 @@
+@import "~bootstrap/scss/bootstrap";
+
+.ptf-navbar {
+  background-color: #fff !important;
+  .ptf-logo {
+    width: 8em;
+  }
+}
+
+.banner {
+  background: linear-gradient(rgba(75, 87, 175, 0.65), rgba(75, 87, 175, 0.65)),
+    url("https://powertofly-rm-assets.s3.us-east-2.amazonaws.com/img/hp/11111111111.png")
+      no-repeat 50% 0;
+  background-size: cover;
+  color: #fff;
+}
+.banner-heading {
+  text-align: center;
+
+  h1 {
+    color: #68eff8;
+    text-transform: uppercase;
+    margin-top: 1em;
+  }
+  h3 {
+    text-transform: uppercase;
+  }
+}
+
+.companies-header {
+  .heading {
+    font-size: 22px;
+    color: #000;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+.companies-carousel {
+  padding-top: 3.5em;
+}
+.company-card {
+  width: 15rem;
+  .card-title {
+    cursor: pointer;
+    margin-bottom: 2em;
+  }
+  img {
+    margin-top: -60px;
+    width: 60px;
+    transition: width 0.2s;
+  }
+  img:hover {
+    width: 70px;
+  }
+}
+.search-section {
+  margin-top: 2em;
+  margin-bottom: 3em;
+  ::placeholder {
+    text-transform: uppercase;
+    margin-right: 0;
+  }
+  svg {
+    color: #2ebdb7;
+  }
+  .search-btn {
+    background-color: #ec5167;
+    border: 1px solid #ec5167;
+    border-radius: 0;
+    svg {
+      color: #fff;
+    }
+  }
+  .col {
+    padding: 0;
+    background-color: #f3f3f3;
+    span,
+    input {
+      background-color: #f3f3f3;
+      border-left: none;
+      border-right: none;
+      border-radius: 0;
+    }
+  }
+}
+.connect-section {
+  text-align: center;
+  .heading {
+    font-size: 16px;
+  }
+  .btn {
+    margin-right: 0.8em;
+    font-size: 15px;
+    padding: 0.4em 1em;
+  }
+  svg {
+    margin-right: 0.7em;
+  }
+  .fb-btn {
+    background-color: #3b5998;
+    border: 1px solid #3b5998;
+  }
+  .linkedin-btn {
+    background-color: #0474b3;
+    border: 1px solid #0474b3;
+  }
+  .google-btn {
+    background-color: #d93025;
+    border: 1px solid #d93025;
+  }
+  .email-btn {
+    background-color: #ec5167;
+    border: 1px solid #ec5167;
+  }
+  .disclaimer {
+    margin-top: 12px;
+    font-size: 13px;
+    a {
+      color: #fff;
+      text-decoration: underline;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+  }
+}
